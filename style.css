@@ -1,0 +1,20 @@
+.content .nama h1 {
+  color: #ffde00;
+}
+
+.content .foto img {
+  transform: translateY(-6em);
+}
+
+.about .link a i {
+  color: #0a0a0a;
+}
+
+.about .link a:hover {
+  color: #ffde00;
+}
+
+.contact form input:focus,
+.contact form textarea:focus {
+  box-shadow: 0 0 0 4px rgba(255, 222, 0, 0.5);
+}
